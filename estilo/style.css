@@ -83,7 +83,7 @@ main, article{
     display: inline-block;
 }
 
-article{
+/*article{
     padding: 0px;
     text-align: right;
 }
@@ -93,5 +93,5 @@ width: 350px;
 height: 350px;
 text-align: right;
 padding-left: 320px;
-}
+}/*
 
